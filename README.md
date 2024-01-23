@@ -1,7 +1,7 @@
 # Electronic Device Heater
 
 ## Description
-- Capable of maintaining ~30°C (-86°F) internally
+- Capable of maintaining ~30°C (~86°F) internally
 - Uses a high current MOSFET for the higher voltage system control
 - 12VDC --> 5VDC voltage regulator to power microcontroller (ATtiny85)
 - Smoothing capacitor used to achieve constant power input of the ATtiny85 to avoid shutdowns
