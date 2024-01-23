@@ -4,7 +4,7 @@
 - Capable of maintaining ~30°C (~86°F) internally
 - Uses a high current MOSFET for the higher voltage system control
 - 12VDC --> 5VDC voltage regulator to power microcontroller (ATtiny85)
-- Smoothing capacitor used to achieve constant power input of the ATtiny85 to avoid shutdowns
+- Smoothing capacitor used to achieve constant power input of the ATtiny85 to avoid random shutdowns
 
 ### This project is a great example of a low-voltage system safely controlling a high-voltage system 
 
